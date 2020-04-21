@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="694d30c1-b170-4728-933c-38b30d3a6b77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnpuAjaRjhQ2dVq8TDmz0nWBNO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StackUsage">
+    <configuration name="NumberParserSol" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberParserSol" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeChecker" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSecondHalfStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseSecondHalfStack" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackSortWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackSortWhileLoop" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackSubList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackSubList" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackUsage" />
+      <module name="Solutions_Upgrad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackUsage" />
+        <item itemvalue="Application.StackSubList" />
+        <item itemvalue="Application.ReverseSecondHalfStack" />
+        <item itemvalue="Application.PrimeChecker" />
+        <item itemvalue="Application.StackSortWhileLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694d30c1-b170-4728-933c-38b30d3a6b77" name="Default Changelist" comment="" />
+      <created>1585484932497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585484932497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="29" key="#Project_Structure" timestamp="1585485332203">
+      <screen x="0" y="23" width="1366" height="681" />
+    </state>
+    <state x="285" y="29" key="#Project_Structure/0.23.1366.681@0.23.1366.681" timestamp="1585485332203" />
+    <state x="423" y="136" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586082296936">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="423" y="136" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1366.679@0.23.1366.679" timestamp="1586082296936" />
+    <state x="149" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585485297078">
+      <screen x="0" y="23" width="1366" height="681" />
+    </state>
+    <state x="149" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.681@0.23.1366.681" timestamp="1585485297078" />
+    <state x="498" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1585847545202">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="498" y="80" key="#com.intellij.ide.util.MemberChooser/0.23.1366.677@0.23.1366.677" timestamp="1585847545202" />
+    <state x="498" y="80" key="#com.intellij.ide.util.MemberChooser/0.23.1366.681@0.23.1366.681" timestamp="1585486649716" />
+    <state x="423" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585844072392">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="423" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.677@0.23.1366.677" timestamp="1585844072392" />
+    <state width="1320" height="191" key="GridCell.Tab.0.bottom" timestamp="1587493125544">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="166" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1586012919170" />
+    <state width="1320" height="191" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1587493125544" />
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom/0.23.1366.681@0.23.1366.681" timestamp="1587415943498" />
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom/0.23.1366.683@0.23.1366.683" timestamp="1587231702588" />
+    <state width="1320" height="191" key="GridCell.Tab.0.center" timestamp="1587493125540">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="166" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1586012919169" />
+    <state width="1320" height="191" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1587493125540" />
+    <state width="1320" height="230" key="GridCell.Tab.0.center/0.23.1366.681@0.23.1366.681" timestamp="1587415943498" />
+    <state width="1320" height="230" key="GridCell.Tab.0.center/0.23.1366.683@0.23.1366.683" timestamp="1587231702585" />
+    <state width="1320" height="191" key="GridCell.Tab.0.left" timestamp="1587493125540">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="166" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1586012919168" />
+    <state width="1320" height="191" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1587493125540" />
+    <state width="1320" height="230" key="GridCell.Tab.0.left/0.23.1366.681@0.23.1366.681" timestamp="1587415943497" />
+    <state width="1320" height="230" key="GridCell.Tab.0.left/0.23.1366.683@0.23.1366.683" timestamp="1587231702584" />
+    <state width="1320" height="191" key="GridCell.Tab.0.right" timestamp="1587493125542">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="166" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1586012919170" />
+    <state width="1320" height="191" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1587493125542" />
+    <state width="1320" height="230" key="GridCell.Tab.0.right/0.23.1366.681@0.23.1366.681" timestamp="1587415943498" />
+    <state width="1320" height="230" key="GridCell.Tab.0.right/0.23.1366.683@0.23.1366.683" timestamp="1587231702586" />
+    <state width="1320" height="191" key="GridCell.Tab.1.bottom" timestamp="1587493125546">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="205" key="GridCell.Tab.1.bottom/0.23.1366.677@0.23.1366.677" timestamp="1585902976665" />
+    <state width="1320" height="191" key="GridCell.Tab.1.bottom/0.23.1366.679@0.23.1366.679" timestamp="1587493125546" />
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.23.1366.681@0.23.1366.681" timestamp="1587415943484" />
+    <state width="1320" height="250" key="GridCell.Tab.1.bottom/0.23.1366.683@0.23.1366.683" timestamp="1587144226672" />
+    <state width="1320" height="191" key="GridCell.Tab.1.center" timestamp="1587493125545">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="205" key="GridCell.Tab.1.center/0.23.1366.677@0.23.1366.677" timestamp="1585902976664" />
+    <state width="1320" height="191" key="GridCell.Tab.1.center/0.23.1366.679@0.23.1366.679" timestamp="1587493125545" />
+    <state width="1320" height="247" key="GridCell.Tab.1.center/0.23.1366.681@0.23.1366.681" timestamp="1587415943483" />
+    <state width="1320" height="250" key="GridCell.Tab.1.center/0.23.1366.683@0.23.1366.683" timestamp="1587144226671" />
+    <state width="1320" height="191" key="GridCell.Tab.1.left" timestamp="1587493125545">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="205" key="GridCell.Tab.1.left/0.23.1366.677@0.23.1366.677" timestamp="1585902976663" />
+    <state width="1320" height="191" key="GridCell.Tab.1.left/0.23.1366.679@0.23.1366.679" timestamp="1587493125545" />
+    <state width="1320" height="247" key="GridCell.Tab.1.left/0.23.1366.681@0.23.1366.681" timestamp="1587415943482" />
+    <state width="1320" height="250" key="GridCell.Tab.1.left/0.23.1366.683@0.23.1366.683" timestamp="1587144226671" />
+    <state width="1320" height="191" key="GridCell.Tab.1.right" timestamp="1587493125546">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state width="1320" height="205" key="GridCell.Tab.1.right/0.23.1366.677@0.23.1366.677" timestamp="1585902976664" />
+    <state width="1320" height="191" key="GridCell.Tab.1.right/0.23.1366.679@0.23.1366.679" timestamp="1587493125546" />
+    <state width="1320" height="247" key="GridCell.Tab.1.right/0.23.1366.681@0.23.1366.681" timestamp="1587415943483" />
+    <state width="1320" height="250" key="GridCell.Tab.1.right/0.23.1366.683@0.23.1366.683" timestamp="1587144226671" />
+    <state x="314" y="62" key="NewModule_or_Project.wizard" timestamp="1585842115559">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="314" y="62" key="NewModule_or_Project.wizard/0.23.1366.677@0.23.1366.677" timestamp="1585842115559" />
+    <state x="202" y="23" key="SettingsEditor" timestamp="1585904972458">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="202" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1585904972458" />
+    <state x="364" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1587460426642">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="364" y="196" key="com.intellij.ide.util.TipDialog/0.23.1366.677@0.23.1366.677" timestamp="1585997232643" />
+    <state x="364" y="197" key="com.intellij.ide.util.TipDialog/0.23.1366.679@0.23.1366.679" timestamp="1587460426642" />
+    <state x="364" y="196" key="com.intellij.ide.util.TipDialog/0.23.1366.681@0.23.1366.681" timestamp="1587057672110" />
+    <state x="79" y="23" key="new project wizard" timestamp="1585753149393">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="79" y="23" key="new project wizard/0.23.1366.677@0.23.1366.677" timestamp="1585753149393" />
+    <state x="350" y="26" width="670" height="676" key="search.everywhere.popup" timestamp="1587226661087">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="350" y="26" width="670" height="676" key="search.everywhere.popup/0.23.1366.679@0.23.1366.679" timestamp="1587226661087" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>9</line>
+          <properties class="Quadrilateral" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>18</line>
+          <properties class="Quadrilateral" method="getPerimeter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/solutions/TestArrList.java</url>
+          <line>3</line>
+          <properties class="TestArrList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeGeek.java</url>
+          <line>2</line>
+          <properties class="CoinExchangeGeek" method="countWays">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>9</line>
+          <properties class="TailRecursion" method="fact">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quadrilateral.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/solutions/ArrayChecker.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/solutions/ArrayChecker.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/solutions/ArrayChecker.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/solutions/ArrayChecker.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/solutions/ArrayChecker.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IteratorUsage.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FibonacciDynamic.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgrammingMinCost.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgrammingMinCost.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgrammingMinCost.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgrammingMinCost.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeGeek.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeGeek.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeGeek.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeGeek.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeProblem.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeProblem.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeProblem.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeProblem.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinExchangeProblem.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TailRecursion.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SequenceCheckStack.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackSortWhileLoop.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseSecondHalfStack.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseSecondHalfStack.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseSecondHalfStack.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseSecondHalfStack.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="table[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

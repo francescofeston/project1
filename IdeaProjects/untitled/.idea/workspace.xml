@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb52b95-e62d-489f-81bc-2140ef8513e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULQENE5LrHyEw7pfm8Iuh2pR6R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Hash">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bubble" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HashSet" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Knapsack" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.HashSet" />
+        <item itemvalue="Application.Bubble" />
+        <item itemvalue="Application.Knapsack" />
+        <item itemvalue="Application.SelectionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb52b95-e62d-489f-81bc-2140ef8513e2" name="Default Changelist" comment="" />
+      <created>1575133282998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575133282998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583076752755">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="413" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1366.679@0.23.1366.679" timestamp="1583076752755" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom" timestamp="1583003883810">
+      <screen x="0" y="23" width="1366" height="683" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1579441153292" />
+    <state width="1304" height="151" key="GridCell.Tab.0.bottom/0.23.1366.678@0.23.1366.678" timestamp="1577053617124" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.23.1366.679@0.23.1366.679" timestamp="1580023740108" />
+    <state width="1304" height="151" key="GridCell.Tab.0.bottom/0.23.1366.680@0.23.1366.680" timestamp="1575228002738" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.23.1366.681@0.23.1366.681" timestamp="1583001145251" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.23.1366.683@0.23.1366.683" timestamp="1583003883810" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center" timestamp="1583003883808">
+      <screen x="0" y="23" width="1366" height="683" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1579441153291" />
+    <state width="1304" height="151" key="GridCell.Tab.0.center/0.23.1366.678@0.23.1366.678" timestamp="1577053617122" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.23.1366.679@0.23.1366.679" timestamp="1580023740104" />
+    <state width="1304" height="151" key="GridCell.Tab.0.center/0.23.1366.680@0.23.1366.680" timestamp="1575228002737" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.23.1366.681@0.23.1366.681" timestamp="1583001145249" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.23.1366.683@0.23.1366.683" timestamp="1583003883808" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left" timestamp="1583003883807">
+      <screen x="0" y="23" width="1366" height="683" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1579441153290" />
+    <state width="1304" height="151" key="GridCell.Tab.0.left/0.23.1366.678@0.23.1366.678" timestamp="1577053617122" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.23.1366.679@0.23.1366.679" timestamp="1580023740102" />
+    <state width="1304" height="151" key="GridCell.Tab.0.left/0.23.1366.680@0.23.1366.680" timestamp="1575228002736" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.23.1366.681@0.23.1366.681" timestamp="1583001145248" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.23.1366.683@0.23.1366.683" timestamp="1583003883807" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right" timestamp="1583003883809">
+      <screen x="0" y="23" width="1366" height="683" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1579441153292" />
+    <state width="1304" height="151" key="GridCell.Tab.0.right/0.23.1366.678@0.23.1366.678" timestamp="1577053617123" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.23.1366.679@0.23.1366.679" timestamp="1580023740107" />
+    <state width="1304" height="151" key="GridCell.Tab.0.right/0.23.1366.680@0.23.1366.680" timestamp="1575228002737" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.23.1366.681@0.23.1366.681" timestamp="1583001145250" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.23.1366.683@0.23.1366.683" timestamp="1583003883809" />
+    <state x="362" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583076246525">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="362" y="194" key="com.intellij.ide.util.TipDialog/0.23.1366.677@0.23.1366.677" timestamp="1580031307512" />
+    <state x="362" y="195" key="com.intellij.ide.util.TipDialog/0.23.1366.679@0.23.1366.679" timestamp="1583076246525" />
+    <state x="362" y="195" key="com.intellij.ide.util.TipDialog/0.23.1366.682@0.23.1366.682" timestamp="1575228134692" />
+    <state x="362" y="196" key="com.intellij.ide.util.TipDialog/0.23.1366.683@0.23.1366.683" timestamp="1582999717125" />
+    <state x="515" y="160" width="816" height="540" key="find.popup" timestamp="1575228430254">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="515" y="160" width="816" height="540" key="find.popup/0.23.1366.677@0.23.1366.677" timestamp="1575228430254" />
+    <state x="458" y="123" width="816" height="511" key="find.popup/0.23.1366.680@0.23.1366.680" timestamp="1575227982886" />
+    <state x="77" y="23" key="new project wizard" timestamp="1582999854499">
+      <screen x="0" y="23" width="1366" height="683" />
+    </state>
+    <state x="77" y="23" key="new project wizard/0.23.1366.677@0.23.1366.677" timestamp="1577049590574" />
+    <state x="77" y="23" key="new project wizard/0.23.1366.683@0.23.1366.683" timestamp="1582999854499" />
+  </component>
+</project>

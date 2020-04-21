@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e79a873e-5307-4fcb-b55f-f1cc5b771152" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zw1hL63sevCHFb3yIixsPHYzka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e79a873e-5307-4fcb-b55f-f1cc5b771152" name="Default Changelist" comment="" />
+      <created>1585735460922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585735460922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1585736242618">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1585736242618" />
+    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1585736242617">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1585736242617" />
+    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1585736242617">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1585736242617" />
+    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1585736242618">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1320" height="164" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1585736242618" />
+    <state x="423" y="121" key="extract.method.dialog" timestamp="1585735588758">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="423" y="121" key="extract.method.dialog/0.23.1366.677@0.23.1366.677" timestamp="1585735588758" />
+  </component>
+</project>
