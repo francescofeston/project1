@@ -1,6 +1,6 @@
 package technicalblog.model;
 
-public class user {
+public class User {
     private String username;
     private String password;
 

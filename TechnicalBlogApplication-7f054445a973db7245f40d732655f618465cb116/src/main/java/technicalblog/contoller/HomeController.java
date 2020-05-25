@@ -8,6 +8,7 @@ import technicalblog.model.Post;
 import technicalblog.service.PostService;
 
 import javax.xml.crypto.Data;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Date;
 
@@ -22,7 +23,7 @@ public class HomeController {
     private PostService postService; //instance variable of PostService allows to call the method wherever necessary
 
     @RequestMapping("/") //homepage
-    public String getAllPosts(Model model){
+    public String getAllPosts(Model model) throws SQLException {
 
         ArrayList<Post> posts = postService.getAllPosts();
 

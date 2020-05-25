@@ -4,8 +4,11 @@ import org.springframework.stereotype.Service;
 import technicalblog.model.Post;
 
 import java.lang.reflect.Array;
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.Date;
+
+import static java.sql.DriverManager.getConnection;
 
 @Service
 public class PostService {
@@ -14,10 +17,10 @@ public class PostService {
         System.out.println("*** PostService ***");
     }
 
-    public ArrayList<Post> getAllPosts(){
+    public ArrayList<Post> getAllPosts() throws SQLException {
 
         ArrayList<Post> posts = new ArrayList<>();
-
+/*
         Post post1 = new Post();
         post1.setTitle("Post 1");
         post1.setBody("Post Body 1");
@@ -39,10 +42,31 @@ public class PostService {
 
         return posts;
 
-    }
-    public ArrayList<Post> getOnePost(){
-        ArrayList<Post> posts = new ArrayList<>();
+ */
+        Connection connection = null;
+        try {
+            Class.forName("org.postgresql.Driver"); //JBC driver class
+            connection = getConnection("jdbc:postgresql://localhost:5432/technicalblog", "postgres", "admin"); //load the driver
+            Statement statement = connection.createStatement(); //creates a statement object => enables statement in database
+            ResultSet rs = statement.executeQuery("SELECT * FROM posts");
+                while(rs.next()){
+                    Post post = new Post();
+                    post.setTitle(rs.getString("title"));
+                    post.setBody(rs.getString("body"));
+                    posts.add(post);
 
+                }
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        finally{
+            connection.close();
+        }
+        return posts;
+    }
+    public ArrayList<Post> getOnePost() throws SQLException {
+        ArrayList<Post> posts = new ArrayList<>();
+        /*
         Post post1 = new Post();
         post1.setTitle("This is your first Post ");
         post1.setBody("Post Body 1");
@@ -50,6 +74,27 @@ public class PostService {
 
         posts.add(post1);
 
+         */
+        Connection connection = null;
+        try {
+            Class.forName("org.postgresql.Driver"); //JBC driver class
+            connection = getConnection("jdbc:postgresql://localhost:5432/technicalblog", "postgres", "admin"); //load the driver
+            Statement statement = connection.createStatement(); //creates a statement object => enables statement in database
+            ResultSet rs = statement.executeQuery("SELECT * FROM posts WHERE id = 4");
+            while(rs.next()){
+                Post post = new Post();
+                post.setTitle(rs.getString("title"));
+                post.setBody(rs.getString("body"));
+                posts.add(post);
+
+            }
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        finally {
+            connection.close();
+        }
         return posts;
+
     }
 }
