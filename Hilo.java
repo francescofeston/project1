@@ -1,3 +1,5 @@
+//game app to guess a random number
+
 import java.util.Scanner;
 public class Hilo {
     public static void main(String[] args) {
